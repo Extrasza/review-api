@@ -26,7 +26,7 @@ A API é construída com Python, Flask e OpenAPI 3. A persistência é feita via
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/rekt-review-api.git
+git clone https://github.com/extrasza/rekt-review-api.git
 cd rekt-review-api
 ```
 2. Instale as dependencias:
